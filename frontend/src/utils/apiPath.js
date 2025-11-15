@@ -1,4 +1,4 @@
-export const BASE_URL = 'http://localhost:5000'
+export const BASE_URL = 'https://mentor-ai-7sn2.onrender.com'
 
 export const API_PATHS={
     AUTH:{
